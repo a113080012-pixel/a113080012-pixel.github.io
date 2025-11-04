@@ -1,0 +1,34 @@
+:root{
+
+  --bs-body-font-family: "Saira Extra Condensed","Noto Sans TC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;
+ --bs-primary-rgb: 88, 154, 141;
+ --bs-link-color: #589A8D;
+ --bs-link-hover-color: #589A8D;
+
+
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
+
+    font-family: "Noto Sans TC","Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    text-transform:none;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+.tooltip,popover,.subheading{
+
+    --bs-body-font-family: "Noto Sans TC","Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 200;
+    text-transform:none;
+}
+
+.resume-section {
+
+background-color: rgb(255, 248, 220);
+
+ background-image: url('../assets/img/inspiration-geometry.png'); }
